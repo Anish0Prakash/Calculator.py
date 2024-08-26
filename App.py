@@ -1,5 +1,6 @@
-# CALCULATE THE AREA OF RECTANGLE
-rectangleLength = 10
-rectangleBreadth = 5
-rectangeArea = rectangleLength * rectangleBreadth
-print(rectangeArea)
+txt = "welcome to softlinks"
+print(txt.upper())
+print(txt.lower())
+print(txt.count('o'))
+print(txt.index('i'))
+print(txt.replace('o','i'))
