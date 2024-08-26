@@ -1,6 +1,7 @@
-txt = "welcome to softlinks"
-print(txt.upper())
-print(txt.lower())
-print(txt.count('o'))
-print(txt.index('i'))
-print(txt.replace('o','i'))
+primeNumbers = [2,3,5,7,11]
+primeNumbers.append(13)
+print(primeNumbers)
+primeNumbers.remove(5)
+print(primeNumbers)
+primeNumbers.clear()
+print(primeNumbers)
